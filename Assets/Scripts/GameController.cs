@@ -163,7 +163,7 @@ namespace Numeric
                 textButtonOne.text = "";
                 textButtonTwo.text = "";
                 textButtonThree.text = "";
-                textButtonResult.text = "вам больше всего подходят эти цифры";
+                textButtonResult.text = "РІР°Рј Р±РѕР»СЊС€Рµ РІСЃРµРіРѕ РїРѕРґС…РѕРґСЏС‚ СЌС‚Рё С†РёС„СЂС‹";
                 textButtonResultNumber.text = "" + result.Item1 + " " + result.Item2 + " " + result.Item3;
 
                 buttonStart.gameObject.SetActive(true);
